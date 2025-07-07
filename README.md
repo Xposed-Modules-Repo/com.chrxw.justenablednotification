@@ -1,4 +1,4 @@
-# justenablednotification
+# Just Enabled Notification
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.chrxw.justenablednotification?logo=github)
 [![GitHub Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.chrxw.justenablednotification/total?logo=github)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.chrxw.purenga)
